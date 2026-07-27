@@ -65,7 +65,11 @@ The control and power circuits were soldered across two separate perfboards. The
 Separating the circuitry across two boards helped organize the control electronics and higher-current motor components.
 
 
-<img src="images/soldering_perfboard.jpg" alt="Perfboard Image" width="100" height="100">  
+<img
+  src="images/soldering_perfboard.jpg"
+  alt="Perfboard"
+  width="300"
+/>
 
 
 ## Software
@@ -101,9 +105,23 @@ Target Weight Reached?
 Stop Actuator
 ```
 
-![](images/display_idle.jpg =100x100)
-![](images/display_powder.jpg =200x200)
-![](images/display_water.jpg =200x200)
+<img
+  src="images/display_idle"
+  alt="Display in Idle"
+  width="300"
+/>
+
+<img
+  src="images/display_powder"
+  alt="Display Despensing Powder"
+  width="300"
+/>
+
+<img
+  src="images/display_water"
+  alt="Display Despensing Water"
+  width="300"
+/>
 
 This approach helps account for variations in pump flow, motor speed, and the amount of material being dispensed.
 
