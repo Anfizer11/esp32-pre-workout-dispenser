@@ -14,7 +14,7 @@ Once the measured weight reached the configured target, the ESP32 stopped the pu
 
 ## Final Prototype
 
-![Completed pre-workout dispenser](images/prototype.jpg =200x200)
+![Completed pre-workout dispenser](images/prototype.jpg)
 
 ## System Features
 
@@ -65,7 +65,8 @@ The control and power circuits were soldered across two separate perfboards. The
 Separating the circuitry across two boards helped organize the control electronics and higher-current motor components.
 
 
-![](images/soldering_perfboard.jpg =200x200)
+<img src="images/soldering_perfboard.jpg" alt="Perfboard Image" width="100" height="100">  
+
 
 ## Software
 
