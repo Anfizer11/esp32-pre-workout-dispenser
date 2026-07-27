@@ -14,7 +14,11 @@ Once the measured weight reached the configured target, the ESP32 stopped the pu
 
 ## Final Prototype
 
-![Completed pre-workout dispenser](images/prototype.JPG)
+<img
+  src="images/prototype.JPG"
+  alt="Completed pre-workout dispenser"
+  width="300"
+/>
 
 ## System Features
 
@@ -157,8 +161,8 @@ I developed the individual code segments for the system components and designed 
 ```text
 esp32-pre-workout-dispenser/
 ├── README.md
-├── src/
-│   └── pre_workout_dispenser.ino
+├── Prework_Out_Dispenser_FINAL/
+│   └── Prework_Out_Dispenser_FINAL.ino
 └── images/
     ├── display_idle.jpg
     ├── display_powder.jpg
