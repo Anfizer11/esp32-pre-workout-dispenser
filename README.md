@@ -100,7 +100,7 @@ Target Weight Reached?
 Stop Actuator
 ```
 
-![](images/display_idle.jpg =200x200)
+![](images/display_idle.jpg =100x100)
 ![](images/display_powder.jpg =200x200)
 ![](images/display_water.jpg =200x200)
 
