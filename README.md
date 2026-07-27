@@ -14,7 +14,7 @@ Once the measured weight reached the configured target, the ESP32 stopped the pu
 
 ## Final Prototype
 
-![Completed pre-workout dispenser](images/prototype.jpg)
+![Completed pre-workout dispenser](images/prototype.jpg =200x200)
 
 ## System Features
 
@@ -65,7 +65,7 @@ The control and power circuits were soldered across two separate perfboards. The
 Separating the circuitry across two boards helped organize the control electronics and higher-current motor components.
 
 
-![](images/soldering_perfboard.jpg)
+![](images/soldering_perfboard.jpg =200x200)
 
 ## Software
 
@@ -100,9 +100,9 @@ Target Weight Reached?
 Stop Actuator
 ```
 
-![](images/display_idle.jpg)
-![](images/display_powder.jpg)
-![](images/display_water.jpg)
+![](images/display_idle.jpg =200x200)
+![](images/display_powder.jpg =200x200)
+![](images/display_water.jpg =200x200)
 
 This approach helps account for variations in pump flow, motor speed, and the amount of material being dispensed.
 
