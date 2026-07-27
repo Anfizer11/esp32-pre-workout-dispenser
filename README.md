@@ -66,7 +66,7 @@ Separating the circuitry across two boards helped organize the control electroni
 
 
 <img
-  src="images/soldering_perfboard.jpg"
+  src="./images/soldering_perfboard.JPG"
   alt="Perfboard"
   width="300"
 />
