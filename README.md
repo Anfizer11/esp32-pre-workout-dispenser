@@ -14,7 +14,7 @@ Once the measured weight reached the configured target, the ESP32 stopped the pu
 
 ## Final Prototype
 
-![Completed pre-workout dispenser](images/prototype.jpg)
+![Completed pre-workout dispenser](images/prototype.JPG)
 
 ## System Features
 
@@ -66,7 +66,7 @@ Separating the circuitry across two boards helped organize the control electroni
 
 
 <img
-  src="./images/soldering_perfboard.JPG"
+  src="images/soldering_perfboard.JPG"
   alt="Perfboard"
   width="300"
 />
@@ -106,19 +106,19 @@ Stop Actuator
 ```
 
 <img
-  src="images/display_idle"
+  src="images/display_idle.jpg"
   alt="Display in Idle"
   width="300"
 />
 
 <img
-  src="images/display_powder"
+  src="images/display_powder.jpg"
   alt="Display Despensing Powder"
   width="300"
 />
 
 <img
-  src="images/display_water"
+  src="images/display_water.jpg"
   alt="Display Despensing Water"
   width="300"
 />
